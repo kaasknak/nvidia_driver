@@ -11,10 +11,10 @@ Nope. Absolutely not. Sometimes the GPU fan still speeds up without any reason.
 
 ### How do I use it?
 Well that depends.
-* I have already installed the drivers.
-  Great. Just run 'sudo bash part2.sh' and everything should be configured.
-* I have a clean system.
-  You could try to use the installer by running 'sudo bash install.sh' but as you are installing drivers as well it might require a restart. It might be better to run 'sudo bash part1.sh'
+* I have already installed the drivers.\
+  Great. Just run `sudo bash part2.sh` and everything should be configured.
+* I have a clean system.\
+  You could try to use the installer by running `sudo bash install.sh` but as you are installing drivers as well it might require a restart. It might be better to run `sudo bash part1.sh`.
 
 ### Your code sucks!
 Feel free to fork it and send a pull request if you have any ideas on how to improve it / if the code is outdated / if you know a better way to get nvidia to behave.
